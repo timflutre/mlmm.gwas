@@ -2,7 +2,7 @@ Package: mlmm.gwas
 Type: Package
 Title: Pipeline for GWAS Using MLMM
 Version: 1.0.5
-Author: Fanny Bonnafous [aut], Alexandra Duhnen [aut], Louise Gody [aut], Olivier Guillaume[aut, cre], Brigitte Mangin [aut], Prune Pegot-Espagnet [aut], Vincent Segura [aut], Bjarni J. Vilhjalmsson [aut], Clement Mabire [aut]
+Author: Fanny Bonnafous [aut], Alexandra Duhnen [aut], Louise Gody [aut], Olivier Guillaume[aut, cre], Brigitte Mangin [aut], Prune Pegot-Espagnet [aut], Vincent Segura [aut], Bjarni J. Vilhjalmsson [aut], Clement Mabire [aut], Timothee Flute [ctb]
 Maintainer: Clement Mabire <clement.mabire@inra.fr>
 Description: Pipeline for Genome-Wide Association Study using Multi-Locus Mixed Model from Segura V, Vilhjálmsson BJ et al. (2012) <doi:10.1038/ng.2314>. The pipeline include detection of associated SNPs with MLMM, model selection by lowest eBIC and markers selection by p-value threshold, estimation of the effects of the SNPs in the selected model and graphical functions.
 License: GPL-3
